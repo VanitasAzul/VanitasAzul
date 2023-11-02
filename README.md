@@ -3,3 +3,7 @@
 #I am making a game
 #My favorite class is computer Science
 #:)
+
+### My Favorite things
+My favorite food is tamales
+my favorite show is mushoku tensei
