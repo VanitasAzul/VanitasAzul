@@ -1,5 +1,5 @@
-
-I live in Texas
-I like anime, games, gatcha games, visual novel games, ramen
-I am a cool highschool dude, I program and don't get in trouble :)
+Samuel Apodaca
+I was born and raised in texas, I like to train, program, anime
+I am making a game
 My favorite class is computer Science
+:)
