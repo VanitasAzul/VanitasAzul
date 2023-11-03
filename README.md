@@ -5,5 +5,7 @@
 #:)
 
 ### My Favorite things
-My favorite food is tamales
-my favorite show is mushoku tensei
+food is tamales, 
+show is mushoku tensei, 
+holiday is Christmas, 
+game is minecraft, 
