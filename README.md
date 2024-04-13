@@ -10,5 +10,5 @@
 ### food is tamales
 ### show is mushoku tensei
 ### Book is Ready Player One
-### holiday is Christmas
+### holiday is Halloween
 ### game is minecraft
